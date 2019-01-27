@@ -1,6 +1,6 @@
 {
   "name": "npm-link-better",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "npm link alternative",
   "main": "lib",
   "bin": {
