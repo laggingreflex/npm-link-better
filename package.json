@@ -17,7 +17,6 @@
   "dependencies": {
     "debounce-queue": "^0.3.0",
     "fs-extra": "^7.0.1",
-    "global-modules": "^2.0.0",
     "node-watch": "^0.6.0",
     "yargs": "^12.0.5"
   },
