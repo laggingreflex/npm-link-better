@@ -35,6 +35,12 @@ npm-link-better --copy <dependency>
 nlc <dependency>
 ```
 
+Bonus Features:
+
+* (Use `npm-link-quick --zelda` flag to link all packages in a dir (inspired by https://github.com/feross/zelda))
+
+
+
 [npm link]: https://docs.npmjs.com/cli/link.html
 [npm-link-copy]: https://github.com/laggingreflex/npm-link-copy
 [npm-link-quick]: https://github.com/laggingreflex/npm-link-quick
